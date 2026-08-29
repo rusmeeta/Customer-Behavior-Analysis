@@ -28,21 +28,21 @@ Jupyter Notebook
 
 Project Steps
 
-1. Data Loading & Cleaning
+1. Data Loading & Cleaning:
 Loaded the dataset using Python and Pandas
 Checked data types and missing values
 Handled missing review ratings
 Renamed columns to snake_case
 Removed redundant columns
 
-2. Exploratory Data Analysis
+2. Exploratory Data Analysis:
 Analyzed customer spending patterns
 Explored product and category performance
 Studied customer demographics
 Analyzed subscription and discount behavior
 Created new features such as age groups
 
-3. SQL Analysis
+3. SQL Analysis:
 Loaded the cleaned data into MySQL and used SQL to analyze:
 Revenue by gender
 Subscribers vs. non-subscribers
@@ -54,13 +54,13 @@ Top products by category
 Repeat buyers
 Revenue by age group
 
-4. Power BI Dashboard
+4. Power BI Dashboard:
 Created an interactive Power BI dashboard to visualize key findings and business insights.
 
-5. Report & Presentation
+5. Report & Presentation:
 Created a business report summarizing the analysis and recommendations.Also created a presentation using Gamma to communicate the project findings.
 
-Dashboard
+Dashboard:
 
 Key Insights
 The analysis helped identify:
